@@ -1,4 +1,5 @@
-﻿import {Component} from '@angular/core';
+﻿"use strict";
+import {Component} from '@angular/core';
 import {NgControl} from '@angular/common';
 import {AppServiceTodoList} from '../../services/app.service.todolist';
 
